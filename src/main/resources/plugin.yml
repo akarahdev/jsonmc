@@ -1,0 +1,5 @@
+name: P1Cosmos
+version: '${project.version}'
+main: me.endistic.jsonmc.JsonMC
+api-version: '1.20'
+load: STARTUP
